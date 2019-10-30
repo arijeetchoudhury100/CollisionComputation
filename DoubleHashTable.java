@@ -1,5 +1,3 @@
-package assignment3.collision;
-
 public class DoubleHashTable{
     int tableSize;
     int secondSize;
