@@ -1,5 +1,3 @@
-package assignment3.collision;
-
 public class QuadraticProbeHashTable{
     int tableSize;
     int curSize;
