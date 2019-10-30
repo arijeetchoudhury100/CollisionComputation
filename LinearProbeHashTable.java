@@ -1,5 +1,3 @@
-package assignment3.collision;
-
 public class LinearProbeHashTable{
     int tableSize;
     int curSize;
